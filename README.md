@@ -16,6 +16,10 @@ Source code in C++ is also provided to test the model!
 
 ## Installation
 TODO or Pip install something.
+```bash
+pip install onnxsim
+pip install onnx
+```
 
 ## Usage
 ### Inference
